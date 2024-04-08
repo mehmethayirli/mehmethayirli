@@ -3,7 +3,11 @@
 
 <img align="right" alt="Coding" width="980" src="https://blog.ethereum.org/_ipx/w_1080,q_75/https%3A%2F%2Fstorage.googleapis.com%2Fethereum-hackmd%2Fupload_fc82062a814fd40a66c7d03a522da205.jpeg?url=https%3A%2F%2Fstorage.googleapis.com%2Fethereum-hackmd%2Fupload_fc82062a814fd40a66c7d03a522da205.jpeg&w=1080&q=75">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmethayirli&label=Profile%20views&color=0e75b6&style=flat" alt="mehmethayirli" /> </p>
+<p align="center">
+  <a href="https://github.com/mehmethayirli">
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virjilakrum&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
