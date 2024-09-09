@@ -14,5 +14,11 @@
 <a href="https://medium.com/@mehmethayirli0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmethayirli0" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mehmetzsche"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mehmetzsche" /></a></p><br><br>
+## 🏆 Hackathon Achievements
+
+- **Solana Hackathon (Winner🥇)** | Sep 2024
+- **Solana Mini Hackathon (Winner🥇)** | March 2024
+- **Solana Demoday (Winner🥈)** | March 2024
+- **MINA zk-Ignite Cohort-3 Program (Project Grant)** | March 2024
+- **Ödeal GPT AI Hackathon (Finalist)** | Nov 2023
+- **Fizy HaCXathon (Finalist)** | May 2022
