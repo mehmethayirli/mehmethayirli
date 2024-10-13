@@ -16,6 +16,7 @@
 
 ## 🏆 Hackathon Achievements
 
+- **Solana Demoday (Winner🥉)** | Oct 2024
 - **Solana Hackathon (Winner🥇)** | Sep 2024
 - **Solana Mini Hackathon (Winner🥇)** | March 2024
 - **Solana Demoday (Winner🥈)** | March 2024
