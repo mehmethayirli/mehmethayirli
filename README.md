@@ -16,7 +16,7 @@
 
 ## 🏆 Hackathon Achievements
 
-- **ICP Chain Fusion Web 3.0 Collision Hackathon (Winner)** | Oct 2024
+- **ICP Chain Fusion Web 3.0 Collision Hackathon (Finalist)** | Oct 2024
 - **Solana Demoday (Winner🥉)** | Oct 2024
 - **Solana Hackathon (Winner🥇)** | Sep 2024
 - **Solana Mini Hackathon (Winner🥇)** | March 2024
