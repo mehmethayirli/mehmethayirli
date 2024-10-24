@@ -22,5 +22,6 @@
 - **Solana Mini Hackathon (Winner🥇)** | March 2024
 - **Solana Demoday (Winner🥈)** | March 2024
 - **MINA zk-Ignite Cohort-3 Program (Project Grant)** | March 2024
+- **GSB Blockchain Genç Hackathon (Finalist)** | Dec 2023
 - **Ödeal GPT AI Hackathon (Finalist)** | Nov 2023
 - **Fizy HaCXathon (Finalist)** | May 2022
