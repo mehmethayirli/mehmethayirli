@@ -16,6 +16,7 @@
 
 ## 🏆 Hackathon Achievements
 
+- **Solana Global Radar Hackathon Zero Track (Winner 4th🏆)** | Oct 2024
 - **ICP Chain Fusion Web 3.0 Collision Hackathon (Finalist)** | Oct 2024
 - **Solana Demoday (Winner🥉)** | Oct 2024
 - **Solana Hackathon (Winner🥇)** | Sep 2024
