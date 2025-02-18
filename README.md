@@ -15,7 +15,9 @@
 </p>
 
 ## 🏆 Hackathon Achievements
+ (Winner🏆) | Feb 2025
 
+- **Kapsul Blockchain Hackathon (Winner 1 & 2th🏆)** | Feb 2025
 - **Solana Global Radar Hackathon Zero Track (Winner 3-4th🏆)** | Oct 2024
 - **ICP Chain Fusion Web 3.0 Collision Hackathon (Finalist)** | Oct 2024
 - **Solana Demoday (Winner🥉)** | Oct 2024
