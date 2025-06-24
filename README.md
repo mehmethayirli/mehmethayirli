@@ -16,6 +16,7 @@
 
 ## 🏆 Hackathon Achievements
 
+- **Stellar Hack Pera DeFi Track (Winner🥉)** | Jun 2025
 - **Units Network Blockchain Hackathon (Winner 4th🏅)** | Feb 2025
 - **Kapsul Blockchain Hackathon (Winner🥇🥈)** | Feb 2025
 - **Solana Global Radar Hackathon Zero Track (Winner 3-4th🏆)** | Oct 2024
