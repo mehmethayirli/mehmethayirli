@@ -19,6 +19,7 @@
 - **Stellar Hack Pera DeFi Track (Winner🥉)** | Jun 2025
 - **Units Network Blockchain Hackathon (Winner 4th🏅)** | Feb 2025
 - **Kapsul Blockchain Hackathon (Winner🥇🥈)** | Feb 2025
+- **$15M Marketcap on $dGPU 🌿** | Dec 2024
 - **Solana Global Radar Hackathon Zero Track (Winner 3-4th🏆)** | Oct 2024
 - **ICP Chain Fusion Web 3.0 Collision Hackathon (Finalist)** | Oct 2024
 - **Solana Demoday (Winner🥉)** | Oct 2024
