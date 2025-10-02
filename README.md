@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">A passionate Blockchain developer from Turkey</h3>
-
-<p align="center">
-  <a href="https://github.com/mehmethayirli">
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virjilakrum&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mehmetzsche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmetzsche" height="30" width="40" /></a>
