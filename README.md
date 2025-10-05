@@ -5,7 +5,7 @@
 <a href="https://medium.com/@mehmethayirli0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmethayirli0" height="30" width="40" /></a>
 </p>
 
-## 🏆 Hackathon Achievements
+## 🏆 Hackathon Achievements & Grants
 
 - **Monad Blitz Hackathon (Honorable Mention🏆)** | Oct 2025
 - **$12.5M Marketcap on Ethereum 🌿** | Aug 2025
